@@ -7,7 +7,7 @@ according to specified options (see Usage) and saves the result to specified des
 ## Usage
 Run
 ```shell script
-python3 core/main.py [options] SRS_PATH DST_PATH
+python3 core/main.py [options] SRC_PATH DST_PATH
 ```
 Options list:
 - --rotate - rotates the image 90 degree clockwise
